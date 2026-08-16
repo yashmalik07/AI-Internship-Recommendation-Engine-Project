@@ -1,0 +1,11 @@
+student_id,name,skills,domain,experience_level
+S001,Aman,"python|machine learning|data science",AI,intermediate
+S002,Riya,"java|spring boot|sql",Web,beginner
+S003,Rohit,"python|django|javascript",Web,intermediate
+S004,Neha,"python|deep learning|computer vision",AI,advanced
+S005,Karan,"java|android|kotlin",Mobile,beginner
+S006,Priya,"python|pandas|numpy|sql",Data Science,intermediate
+S007,Arjun,"javascript|react|nodejs",Web,intermediate
+S008,Simran,"python|tensorflow|machine learning",AI,advanced
+S009,Vikas,"java|sql|spring boot",Web,intermediate
+S010,Anjali,"python|data analysis|excel",Data Science,beginner
