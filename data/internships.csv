@@ -1,0 +1,11 @@
+internship_id,title,required_skills,domain,duration
+I001,AI Intern,"python|machine learning|tensorflow",AI,3 months
+I002,Java Developer Intern,"java|spring boot|sql",Web,6 months
+I003,Full Stack Developer Intern,"python|django|javascript|react",Web,3 months
+I004,Data Scientist Intern,"python|data science|pandas|scikit-learn",Data Science,6 months
+I005,Android Developer Intern,"java|android|kotlin",Mobile,3 months
+I006,Machine Learning Intern,"python|machine learning|numpy|scikit-learn",AI,6 months
+I007,Data Analyst Intern,"python|sql|pandas|excel",Data Science,3 months
+I008,Web Developer Intern,"javascript|react|nodejs",Web,3 months
+I009,Computer Vision Intern,"python|deep learning|computer vision|tensorflow",AI,6 months
+I010,Backend Java Intern,"java|spring boot|sql|mysql",Web,6 months
